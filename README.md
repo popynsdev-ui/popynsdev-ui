@@ -11,22 +11,22 @@
 ## 👾 About Us
 
 > **Popyns Labs** is a dev team passionate about building software that just *works* — beautifully and efficiently.
-> > We focus on clean code, modern architecture, and seamless user experiences.
-> >
-> > ```ts
-> > const popynsLabs = {
-> >   team:        "Popyns Labs",
-> >   focus:       ["UI/UX", "Web Apps", "System Design"],
-> >   principles:  ["Clean Code", "Scalability", "Developer Experience"],
-> >   currentlyBuilding: "Something awesome 🚀",
-> > };
-> > ```
-> >
-> > ---
-> >
-> > ## 🛠️ Tech Stack
-> >
-> > <div align="center">
+> We focus on clean code, modern architecture, and seamless user experiences.
+
+```ts
+const popynsLabs = {
+  team:        "Popyns Labs",
+  focus:       ["UI/UX", "Web Apps", "System Design"],
+  principles:  ["Clean Code", "Scalability", "Developer Experience"],
+  currentlyBuilding: "Something awesome 🚀",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,24 +47,22 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=popynsdev-ui&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popynsdev-ui&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=popynsdev-ui&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=ffffff" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popynsdev-ui&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=ffffff" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=popynsdev-ui&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=popynsdev-ui&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=popynsdev-ui&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7&sideLabels=FF6EC7&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
